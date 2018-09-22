@@ -1,0 +1,21 @@
+
+	<div class="container container-fluid">
+		<div class="row">
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+		</div>
+
+		<div class="row">
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-success col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+			<button class="btn btn-info col-lg-3 col-md-4 col-sm-6 col-xs-12">Test</button>
+		</div>
+
+	</div>
